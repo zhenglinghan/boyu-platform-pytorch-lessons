@@ -160,3 +160,74 @@ Add and Norm
 编码器
 解码器
 训练
+
+11）优化与深度学习
+优化与深度学习
+优化与估计
+优化在深度学习中的挑战
+局部最小值
+鞍点
+梯度消失
+凸性 （Convexity）
+基础
+集合
+函数
+Jensen 不等式
+性质
+无局部最小值
+与凸集的关系
+凸函数与二阶导数
+限制条件
+拉格朗日乘子法
+惩罚项
+投影
+
+12）梯度下降
+梯度下降
+一维梯度下降
+学习率
+局部极小值
+多维梯度下降
+自适应方法
+牛顿法
+收敛性分析
+预处理 （Heissan阵辅助梯度下降）
+梯度下降与线性搜索（共轭梯度法）
+随机梯度下降
+随机梯度下降参数更新
+动态学习率
+小批量随机梯度下降
+读取数据
+从零开始实现
+简洁实现
+
+13）优化算法
+11.6 Momentum
+An ill-conditioned Problem
+Maximum Learning Rate
+Supp: Preconditioning
+Solution to ill-condition
+Momentum Algorithm
+Exponential Moving Average
+Supp
+由指数加权移动平均理解动量法
+Implement
+Pytorch Class
+11.7 AdaGrad
+Algorithm
+Feature
+Implement
+Pytorch Class
+11.8 RMSProp
+Algorithm
+Implement
+Pytorch Class
+11.9 AdaDelta
+Algorithm
+Implement
+Pytorch Class
+11.10 Adam
+Algorithm
+Implement
+Pytorch Class
+
